@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather in Kuznetsovsk</string>
+
+    <string name="hello_world">Current weather in Kuznetsovsk: </string>
+    <string name="action_settings">Settings</string>
+    <string name="pressure">Pressure: </string>
+    <string name="temp">Temperature:  </string>
+    <string name="clouds">Clouds: </string>
+</resources>
